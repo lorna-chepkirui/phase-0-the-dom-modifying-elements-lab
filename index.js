@@ -4,5 +4,5 @@ body.removeChild(document.querySelector('#main'));
 
 const newHeader = document.createElement('h1');
 newHeader.id  = 'victory';
-newHeader.textContent = 'Tiberius is the champion';
+newHeader.textContent = 'Lorna is the champion';
 body.appendChild(newHeader);
